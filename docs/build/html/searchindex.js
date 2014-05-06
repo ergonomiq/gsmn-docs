@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to GSMN Human Resources Site Documentation&#8217;s documentation!"],objects:{},titleterms:{resourc:0,welcom:0,gsmn:0,site:0,indic:0,human:0,tabl:0,document:0}})
